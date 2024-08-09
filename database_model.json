@@ -1,0 +1,10 @@
+{
+  "number_guess": {
+    "users": {
+      "user_id": "SERIAL PRIMARY KEY",
+      "name": "VARCHAR(22) UNIQUE NOT NULL",
+      "games": "INT",
+      "best": "INT"
+    }
+  }
+}
